@@ -4,13 +4,25 @@
 
 ## hobbies and personal qualities:
  - sport: bicycle 🚴‍♂️
- - custom keyboards ⌨️ э
+ - custom keyboards ⌨️ 
  - не курю 🚬
  - не пью  🍾
 
 ## technology stack
 ### Languages & tools
-[<img src="https://img.icons8.com/external-soleicons-solid-amoghdesign/344/external-react-native-soleicons-solid-vol-1-soleicons-solid-amoghdesign.png"/>][React.js]
+
+![React.js](https://img.shields.io/badge/-React-414141?style=for-the-badge&logo=React)
+![React.js](https://img.shields.io/badge/-React-414141?style=for-the-badge&logo=React-router)
+![JavaScript](https://img.shields.io/badge/-JavaScript-414141?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-414141?style=for-the-badge&logo=TypeScript)
+![Next.js](https://img.shields.io/badge/-Next-414141?style=for-the-badge&logo=Next.js)
+![Git](https://img.shields.io/badge/-Git-414141?style=for-the-badge&logo=Git)
+![scss](https://img.shields.io/badge/-Scss-414141?style=for-the-badge&logo=Sass)
+![scss](https://img.shields.io/badge/-Sass-414141?style=for-the-badge&logo=Sass)
+![Less](https://img.shields.io/badge/-Less-414141?style=for-the-badge&logo=Less)
+![Less](https://img.shields.io/badge/-Html-414141?style=for-the-badge&logo=html)
+![Less](https://img.shields.io/badge/-CSS-414141?style=for-the-badge&logo=CSS)
+![Less](https://img.shields.io/badge/-CSS-414141?style=for-the-badge&logo=BEM)
 
 
 
