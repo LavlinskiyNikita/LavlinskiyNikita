@@ -1,4 +1,4 @@
-![HEADER]()
+![HEADER](https://github.com/LavlinskiyNikita/LavlinskiyNikita/blob/main/img/Frame2.png)
 ## hobbies and personal qualities:
  - sport: bicycle 🚴‍♂️
  - custom keyboards ⌨️ 
@@ -38,7 +38,7 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-414141?style=for-the-badge&logo=WhatsApp)](https://wa.me/qr/CPLCIMQBG3X6P1)
 [![WhatsApp](https://img.shields.io/badge/-HH.ru-414141?style=for-the-badge&logo=HH.ru)](https://voronezh.hh.ru/resume/3bed7d9aff096a7da00039ed1f4d4639647956)
 
-![FOOTER]()
+![FOOTER](https://github.com/LavlinskiyNikita/LavlinskiyNikita/blob/main/img/Frame3.png)
 
 
 
