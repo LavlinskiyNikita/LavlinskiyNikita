@@ -1,12 +1,12 @@
 ![HEADER](https://github.com/LavlinskiyNikita/LavlinskiyNikita/blob/main/img/Frame2.png)
-## hobbies and personal qualities:
+## 👨🏻‍💻  hobbies and personal qualities:
  - sport: bicycle 🚴‍♂️
  - custom keyboards ⌨️ 
  - не курю 🚬
  - не пью  🍾
 
 ## technology stack
-### Languages & tools
+### 🛠 Languages & tools
 ![React.js](https://img.shields.io/badge/-React-414141?style=for-the-badge&logo=React)
 ![React.js](https://img.shields.io/badge/-React-414141?style=for-the-badge&logo=React-router)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-414141?style=for-the-badge&logo=JavaScript)
@@ -23,16 +23,16 @@
 ![gulp](https://img.shields.io/badge/-gulp-414141?style=for-the-badge&logo=gulp)
 ![Webpack](https://img.shields.io/badge/-Webpack-414141?style=for-the-badge&logo=Webpack)
 ![Webpack](https://img.shields.io/badge/-Layout-414141?style=for-the-badge)
-## information
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LavlinskiyNikita&theme=solarized_dark)
+## ⚙️ information
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LavlinskiyNikita&theme=zenburn)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LavlinskiyNikita&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LavlinskiyNikita&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LavlinskiyNikita&theme=zenburn)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LavlinskiyNikita&theme=zenburn)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LavlinskiyNikita&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LavlinskiyNikita&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LavlinskiyNikita&theme=zenburn)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LavlinskiyNikita&theme=zenburn)
 
-## contact
+## 🤝🏻 contact
 [![telegram](https://img.shields.io/badge/-telegram-414141?style=for-the-badge&logo=Telegram)](https://t.me/Prostinikita)
 [![Gmail](https://img.shields.io/badge/-Gmail-414141?style=for-the-badge&logo=Gmail)](https://nikitalav21lin@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-414141?style=for-the-badge&logo=WhatsApp)](https://wa.me/qr/CPLCIMQBG3X6P1)
