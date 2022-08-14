@@ -9,6 +9,11 @@
  - не пью  🍾
 
 ## technology stack
+### Languages & tools
+[<img src="https://img.icons8.com/external-soleicons-solid-amoghdesign/344/external-react-native-soleicons-solid-vol-1-soleicons-solid-amoghdesign.png"/>[React.js]
+
+
+
 ### version control systems:
 - Git
 
