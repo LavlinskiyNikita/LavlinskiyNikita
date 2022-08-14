@@ -24,6 +24,8 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-414141?style=for-the-badge&logo=Webpack)
 ![Webpack](https://img.shields.io/badge/-Layout-414141?style=for-the-badge)
 ## ⚙️ information
+<p align="center">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LavlinskiyNikita&theme=zenburn)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LavlinskiyNikita&theme=zenburn)
@@ -31,6 +33,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LavlinskiyNikita&theme=zenburn)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LavlinskiyNikita&theme=zenburn)
+
+</p>
 
 ## 🤝🏻 contact
 [![telegram](https://img.shields.io/badge/-telegram-414141?style=for-the-badge&logo=Telegram)](https://t.me/Prostinikita)
