@@ -25,15 +25,16 @@
 ![Webpack](https://img.shields.io/badge/-Layout-414141?style=for-the-badge)
 ## information
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LavlinskiyNikita&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LavlinskiyNikita&theme=solarized_dark)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LavlinskiyNikita&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LavlinskiyNikita&theme=solarized_dark)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LavlinskiyNikita&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LavlinskiyNikita&theme=solarized_dark)
 
-### contact
-
-
+## contact
+[![telegram](https://img.shields.io/badge/-telegram-414141?style=for-the-badge&logo=Telegram)](https://t.m]e/Prostinikita)
+[![Gmail](https://img.shields.io/badge/-Gmail-414141?style=for-the-badge&logo=Gmail)](nikitalav21lin@gmail.com)
 
 
 
