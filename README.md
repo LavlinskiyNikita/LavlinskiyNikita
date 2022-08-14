@@ -1,4 +1,4 @@
-
+![HEADER]()
 ## hobbies and personal qualities:
  - sport: bicycle 🚴‍♂️
  - custom keyboards ⌨️ 
@@ -35,7 +35,10 @@
 ## contact
 [![telegram](https://img.shields.io/badge/-telegram-414141?style=for-the-badge&logo=Telegram)](https://t.me/Prostinikita)
 [![Gmail](https://img.shields.io/badge/-Gmail-414141?style=for-the-badge&logo=Gmail)](https://nikitalav21lin@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-414141?style=for-the-badge&logo=WhatsApp)](https://wa.me/qr/CPLCIMQBG3X6P1)
+[![WhatsApp](https://img.shields.io/badge/-HH.ru-414141?style=for-the-badge&logo=HH.ru)](https://voronezh.hh.ru/resume/3bed7d9aff096a7da00039ed1f4d4639647956)
 
+![FOOTER]()
 
 
 
