@@ -33,8 +33,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LavlinskiyNikita&theme=solarized_dark)
 
 ## contact
-[![telegram](https://img.shields.io/badge/-telegram-414141?style=for-the-badge&logo=Telegram)](https://t.m]e/Prostinikita)
-[![Gmail](https://img.shields.io/badge/-Gmail-414141?style=for-the-badge&logo=Gmail)](nikitalav21lin@gmail.com)
+[![telegram](https://img.shields.io/badge/-telegram-414141?style=for-the-badge&logo=Telegram)](https://t.me/Prostinikita)
+[![Gmail](https://img.shields.io/badge/-Gmail-414141?style=for-the-badge&logo=Gmail)](https://nikitalav21lin@gmail.com)
 
 
 
