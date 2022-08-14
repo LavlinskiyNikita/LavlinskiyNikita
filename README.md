@@ -2,8 +2,8 @@
 ## 👨🏻‍💻  hobbies and personal qualities:
  - sport: bicycle 🚴‍♂️
  - custom keyboards ⌨️ 
- - не курю 🚬
- - не пью  🍾
+ - I do not smoke 🚬
+ - I do not drink  🍾
 
 ## technology stack
 ### 🛠 Languages & tools
