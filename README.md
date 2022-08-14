@@ -1,4 +1,60 @@
-### Hi there 👋
+# Hi there 👋, i`m Nikita 
+
+<br/>
+
+## hobbies and personal qualities:
+ -- sport: bicycle 🚴‍♂️
+ -- custom keyboards ⌨️ э
+ -- не курю 🚬
+ -- не пью  🍾
+
+## technology stack
+### version control systems:
+-- Git
+
+### methodology:
+-- BEM
+
+### Layout:
+-- Responsive
+-- Valid
+-- Crossbrowser
+-- Semantic
+-- Affordable.
+
+### Preprocessors:
+-- Sass
+-- SCSS
+-- Less
+
+
+### If you want to:
+-- mobile first
+-- pixel-perfect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **LavlinskiyNikita/LavlinskiyNikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
