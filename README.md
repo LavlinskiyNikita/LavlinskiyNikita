@@ -3,34 +3,34 @@
 <br/>
 
 ## hobbies and personal qualities:
- -- sport: bicycle 🚴‍♂️
- -- custom keyboards ⌨️ э
- -- не курю 🚬
- -- не пью  🍾
+ - sport: bicycle 🚴‍♂️
+ - custom keyboards ⌨️ э
+ - не курю 🚬
+ - не пью  🍾
 
 ## technology stack
 ### version control systems:
--- Git
+- Git
 
 ### methodology:
--- BEM
+- BEM
 
 ### Layout:
--- Responsive
--- Valid
--- Crossbrowser
--- Semantic
--- Affordable.
+- Responsive
+- Valid
+- Crossbrowser
+- Semantic
+- Affordable.
 
 ### Preprocessors:
--- Sass
--- SCSS
--- Less
+- Sass
+- SCSS
+- Less
 
 
 ### If you want to:
--- mobile first
--- pixel-perfect
+- mobile first
+- pixel-perfect
 
 
 
