@@ -8,7 +8,7 @@
 ## technology stack
 ### 🛠 Languages & tools
 ![React.js](https://img.shields.io/badge/-React-414141?style=for-the-badge&logo=React)
-![React.js](https://img.shields.io/badge/-React-414141?style=for-the-badge&logo=React-router)
+![React.js](https://img.shields.io/badge/-React-router-414141?style=for-the-badge&logo=React-router)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-414141?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-414141?style=for-the-badge&logo=TypeScript)
 ![Next.js](https://img.shields.io/badge/-Next-414141?style=for-the-badge&logo=Next.js)
@@ -43,39 +43,3 @@
 [![WhatsApp](https://img.shields.io/badge/-HH.ru-414141?style=for-the-badge&logo=HH.ru)](https://voronezh.hh.ru/resume/3bed7d9aff096a7da00039ed1f4d4639647956)
 
 ![FOOTER](https://github.com/LavlinskiyNikita/LavlinskiyNikita/blob/main/img/Frame3.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**LavlinskiyNikita/LavlinskiyNikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
