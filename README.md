@@ -8,7 +8,7 @@
 ## technology stack
 ### 🛠 Languages & tools
 ![React.js](https://img.shields.io/badge/-React-414141?style=for-the-badge&logo=React)
-![React.js](https://img.shields.io/badge/-React-router-414141?style=for-the-badge&logo=React-router)
+![React.js](https://img.shields.io/badge/-React-Router-414141?style=for-the-badge&logo=React-router)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-414141?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-414141?style=for-the-badge&logo=TypeScript)
 ![Next.js](https://img.shields.io/badge/-Next-414141?style=for-the-badge&logo=Next.js)
