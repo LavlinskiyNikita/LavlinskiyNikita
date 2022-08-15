@@ -10,7 +10,6 @@
 ![React.js](https://img.shields.io/badge/-React-414141?style=for-the-badge&logo=React)
 ![React.js](https://img.shields.io/badge/-ReactRouter-414141?style=for-the-badge&logo=React-router)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-414141?style=for-the-badge&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-414141?style=for-the-badge&logo=TypeScript)
 ![Next.js](https://img.shields.io/badge/-Next-414141?style=for-the-badge&logo=Next.js)
 ![Git](https://img.shields.io/badge/-Git-414141?style=for-the-badge&logo=Git)
 ![Sass](https://img.shields.io/badge/-Scss-414141?style=for-the-badge&logo=Sass)
@@ -19,10 +18,22 @@
 ![Less](https://img.shields.io/badge/-Html-414141?style=for-the-badge&logo=HTML5)
 ![Css](https://img.shields.io/badge/-CSS-414141?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![BEM](https://img.shields.io/badge/-BEM-414141?style=for-the-badge&logo=BEM)
-![Vue.js](https://img.shields.io/badge/-Vue-414141?style=for-the-badge&logo=Vue.js)
 ![gulp](https://img.shields.io/badge/-gulp-414141?style=for-the-badge&logo=gulp)
 ![Webpack](https://img.shields.io/badge/-Webpack-414141?style=for-the-badge&logo=Webpack)
+![Figma](https://img.shields.io/badge/-Figma-414141?style=for-the-badge&logo=Figma)
+![AdobePhotoshop](https://img.shields.io/badge/-Photoshop-414141?style=for-the-badge&logo=AdobePhotoshop)
+![AdobeXD](https://img.shields.io/badge/-AdobeXD-414141?style=for-the-badge&logo=AdobeXD)
+![AdobeIllustrator](https://img.shields.io/badge/-Illustrator-414141?style=for-the-badge&logo=AdobeIllustrator)
 ![Webpack](https://img.shields.io/badge/-Layout-414141?style=for-the-badge)
+
+### 🔨 Mastering
+![TypeScript](https://img.shields.io/badge/-TypeScript-414141?style=for-the-badge&logo=TypeScript)
+![Redux](https://img.shields.io/badge/-Redux-414141?style=for-the-badge&logo=Redux)
+
+### 👷 Sign
+![Vue.js](https://img.shields.io/badge/-Vue2,3-414141?style=for-the-badge&logo=Vue.js)  
+![Vue.js](https://img.shields.io/badge/Axios-414141?style=for-the-badge&logo=Axios.js)
+
 ## ⚙️ information
 <div align="center">
 
