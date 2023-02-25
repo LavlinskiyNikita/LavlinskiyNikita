@@ -11,7 +11,7 @@
 ![React.js](https://img.shields.io/badge/-ReactRouter-414141?style=for-the-badge&logo=React-router)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-414141?style=for-the-badge&logo=JavaScript)
 ![Next.js](https://img.shields.io/badge/-Next-414141?style=for-the-badge&logo=Next.js)
-![php](https://img.shields.io/badge/-Next-414141?style=for-the-badge&logo=php)
+![php](https://img.shields.io/badge/-php-414141?style=for-the-badge&logo=php)
 ![Git](https://img.shields.io/badge/-Git-414141?style=for-the-badge&logo=Git)
 ![Sass](https://img.shields.io/badge/-Scss-414141?style=for-the-badge&logo=Sass)
 ![scss](https://img.shields.io/badge/-Sass-414141?style=for-the-badge&logo=Sass)
