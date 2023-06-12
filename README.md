@@ -27,7 +27,7 @@
 ![AdobeIllustrator](https://img.shields.io/badge/-Illustrator-414141?style=for-the-badge&logo=AdobeIllustrator)
 ![Webpack](https://img.shields.io/badge/-Layout-414141?style=for-the-badge)
 
-### 🔨 Mastering
+### 🔨 Education
 ![TypeScript](https://img.shields.io/badge/-TypeScript-414141?style=for-the-badge&logo=TypeScript)
 ![Redux](https://img.shields.io/badge/-Redux-414141?style=for-the-badge&logo=Redux)
 
