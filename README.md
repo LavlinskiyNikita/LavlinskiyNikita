@@ -30,7 +30,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-414141?style=for-the-badge&logo=TypeScript)
 ![Redux](https://img.shields.io/badge/-Redux-414141?style=for-the-badge&logo=Redux)
 
-### 👷 Sign
+### 👷 My plan is to learn
 ![Vue.js](https://img.shields.io/badge/-Vue2,3-414141?style=for-the-badge&logo=Vue.js)  
 ![Vue.js](https://img.shields.io/badge/Axios-414141?style=for-the-badge&logo=Axios.js)
 
