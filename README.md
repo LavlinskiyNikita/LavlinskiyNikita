@@ -19,7 +19,6 @@
 ![Less](https://img.shields.io/badge/-Html-414141?style=for-the-badge&logo=HTML5)
 ![Css](https://img.shields.io/badge/-CSS-414141?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![BEM](https://img.shields.io/badge/-BEM-414141?style=for-the-badge&logo=BEM)
-![gulp](https://img.shields.io/badge/-gulp-414141?style=for-the-badge&logo=gulp)
 ![Webpack](https://img.shields.io/badge/-Webpack-414141?style=for-the-badge&logo=Webpack)
 ![Figma](https://img.shields.io/badge/-Figma-414141?style=for-the-badge&logo=Figma)
 ![AdobePhotoshop](https://img.shields.io/badge/-Photoshop-414141?style=for-the-badge&logo=AdobePhotoshop)
